@@ -1,0 +1,27 @@
+/*
+ a file to test the functionality of the program
+ wish it works!
+
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int x=5;    // define x
+    int y=6;    //dfine y
+    // now add them
+    printf("x+y= %d \n", );  /* another comment*/
+    int u= x/7;
+    u= x / y;
+    // to test ignore in quotes
+    printf(" here i'm not comment //  /* no  */\n", );
+
+    /*
+        u= x * y;
+        7*9  7**9
+    */
+
+    return 0;
+}
